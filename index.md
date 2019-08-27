@@ -4,6 +4,5 @@ layout: default
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 ---
-Welcome to our Documentation site. How about a visit to [GitHub Docs](https://help.github.com/)
-
+Welcome to our Documentation site. How about a visit to [GitHub Docs](https://help.github.com/articles/set-up-git/)
 Thanks for visiting.
